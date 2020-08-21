@@ -1,0 +1,9 @@
+{
+  "name": "bolsa-alert",
+  "version": "0.0.0",
+  "description": "AWS Lambda p/ notificar preço de ações no Telegram.",
+  "author": "Matheus Alves (@theuves)",
+  "dependencies": {
+    "serverless-python-requirements": "^5.1.0"
+  }
+}
