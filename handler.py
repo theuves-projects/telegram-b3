@@ -31,7 +31,7 @@ def get_shares_value(code):
     return data_json['chart']['result'][0]['meta']['regularMarketPrice']
 
 def get_message(codes):
-    values = map(lambda code: '`%s` = R$ %s' % (code + '.SA', get_shares_value(code)), codes)
+    values = map(lambda code: '`%s` = R$ %s' % (code, get_shares_value(code)), codes)
     message = '\n'.join(values)
 
     return message
