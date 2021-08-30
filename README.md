@@ -1,6 +1,6 @@
-# tgb3
+# telegram-b3
 
-> Telegram bot para notificar preço de ações da B3 (powered by Serverless Framework and AWS Lambda).
+> Um "bot" do Telegram para notificar preço de ações da B3 a cada hora (com deploy para AWS Lambda).
 
 ## Schedule
 
