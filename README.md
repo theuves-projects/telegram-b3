@@ -1,6 +1,6 @@
 # telegram-b3
 
-> Um "bot" do Telegram para notificar preço de ações da B3 a cada hora (com deploy para AWS Lambda).
+> Um bot do Telegram para notificação do preço de ações da B3 de hora em hora.
 
 ## Schedule
 
